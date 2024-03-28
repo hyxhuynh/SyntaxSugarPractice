@@ -1,0 +1,14 @@
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\bin\Debug\net8.0\SyntaxSugarPractice.exe
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\bin\Debug\net8.0\SyntaxSugarPractice.deps.json
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\bin\Debug\net8.0\SyntaxSugarPractice.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\bin\Debug\net8.0\SyntaxSugarPractice.dll
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\bin\Debug\net8.0\SyntaxSugarPractice.pdb
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\obj\Debug\net8.0\SyntaxSugarPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\obj\Debug\net8.0\SyntaxSugarPractice.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\obj\Debug\net8.0\SyntaxSugarPractice.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\obj\Debug\net8.0\SyntaxSugarPractice.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\obj\Debug\net8.0\SyntaxSugarPractice.dll
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\obj\Debug\net8.0\refint\SyntaxSugarPractice.dll
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\obj\Debug\net8.0\SyntaxSugarPractice.pdb
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\obj\Debug\net8.0\SyntaxSugarPractice.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\SyntaxSugarPractice\SyntaxSugarPractice\obj\Debug\net8.0\ref\SyntaxSugarPractice.dll
